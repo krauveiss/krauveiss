@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Laravel-0f172a?style=flat&logo=laravel&logoColor=ff2d20" />
   <img src="https://img.shields.io/badge/PHP-0f172a?style=flat&logo=php&logoColor=777bb4" />
 </p>
-  <div>+ basic knowledge of <img src="https://img.shields.io/badge/docker-0f172a?style=flat&logo=docker&logoColor=777bb4" /><img src="https://img.shields.io/badge/UML-0f172a?style=flat&logo=uml&logoColor=777bb4" /></div>
+  <div style="display: flex; justify-content: center; align-items: center">+ basic knowledge of <img src="https://img.shields.io/badge/docker-0f172a?style=flat&logo=docker&logoColor=777bb4" /><img src="https://img.shields.io/badge/UML-0f172a?style=flat&logo=uml&logoColor=777bb4" /></div>
 
 ## Experience
 
